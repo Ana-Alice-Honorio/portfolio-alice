@@ -13,13 +13,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Utilitários**
 
--   Protótipo:  **[Figma]()**  →  **[Protótipo]()**
+-   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo]()**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
--   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
+-   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://emojisparacopiar.com/)**
 -   Ícones:   **[Font Awesome](https://fontawesome.com/)**
 -   Fontes:  **[Poppins](https://fonts.google.com/specimen/Poppins)**,
 -   Libs: **[Typed](https://github.com/mattboldt/typed.js/)**
 
-## Paleta de cores usada
+## 🎨 Paleta de cores usada
 
 ![paleta de cores](./images/paleta-usada.png)
