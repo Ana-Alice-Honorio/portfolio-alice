@@ -3,8 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alice</title>
-    <link rel="icon" type="image/x-icon" href="" />
+    <title>Portfólio da Alice</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;900&display=swap" rel="stylesheet">
     <link
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
@@ -15,10 +17,10 @@
 <body>
   <div class="container">
     <nav>
-      <div class="logo">Alice<b>•</b></div>
+      <div class="logo">Alice<strong>•</strong></div>
       <ul class="navItems">
         <li><a href="#">Home</a></li>
-        <li><a href="#">Stacks & Projetos</a></li>
+        <li><a href="#container2">Stacks & Projetos</a></li>
         <li><a href="https://alicedorh.medium.com/">Blog</a></li>
       </ul>
 
@@ -53,18 +55,19 @@
       </div>
       <div class="cols">
         <div class="imgBox">
-          <img src="./images/image-1-removebg-preview.png" alt="" />
+          <img src="./images/imagem-background.png" alt="Imagem de uma menina, cabelos castanhos curtos e ondulados segurando um tablet" />
         </div>
       </div>
     </div>
   </div>
 
-  <div class="container3">
+  <aside id="container2">
     <div class="card">
       <span class="title">Stacks</span>
       <div class="card__tags">
         <ul class="tag">
           <li class="tag__name">Javascript</li>
+          <li class="tag__name">Typescript</li> 
           <li class="tag__name">Vue.js</li>
           <li class="tag__name">React.js</li>
           <li class="tag__name">Css</li>
@@ -73,10 +76,12 @@
           <li class="tag__name">Docker</li>
           <li class="tag__name">Node.js</li>
           <li class="tag__name">MySQL</li> 
+          <li class="tag__name">PostgreSQL</li> 
+          <li class="tag__name">MongoDB</li>
         </ul>
       </div>
     </div>
-  </div>
+  </aside>
 
   </main>
   <footer>&copy;Ana Alice Honório</footer>
