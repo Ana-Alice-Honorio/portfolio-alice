@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ana-Alice-Honorio/portfolio-alice?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Ana-Alice-Honorio/portfolio-alice?style=for-the-badge)
 
-![primeira página do portfolio](./images/portfolio.gif)
+![primeira página do portfolio](./assets/images/portfolio.gif)
 
 ## 🛠 Tecnologias
 
@@ -22,4 +22,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🎨 Paleta de cores usada
 
-![paleta de cores](./images/paleta-usada.png)
+![paleta de cores](./assets/images/paleta-usada.png)
